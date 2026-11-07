@@ -1,0 +1,8 @@
+[
+ {"id":1,"name":"Polera Essential","category":"Poleras","price":129,"color":"Negro / corte regular","tag":"BESTSELLER","sizes":["S","M","L","XL"],"image":"photo-1521572163474-6864f9cf17ab"},
+ {"id":2,"name":"Hoodie Off Duty","category":"Hoodies","price":289,"color":"Negro / oversized","tag":"NUEVO","sizes":["S","M","L","XL"],"image":"photo-1556821840-3a63f95609a7"},
+ {"id":3,"name":"Denim Daily","category":"Pantalones","price":249,"color":"Índigo / straight fit","tag":"","sizes":["28","30","32","34"],"image":"photo-1542272604-787c3835535d"},
+ {"id":4,"name":"Gorra No Rules","category":"Accesorios","price":89,"color":"Negro / ajustable","tag":"NUEVO","sizes":["Única"],"image":"photo-1588850561407-ed78c282e89b"},
+ {"id":5,"name":"Polera Studio","category":"Poleras","price":149,"color":"Blanco / relaxed fit","tag":"ESENCIAL","sizes":["S","M","L","XL"],"image":"photo-1503341504253-dff4815485f1"},
+ {"id":6,"name":"Denim Weekend","category":"Pantalones","price":269,"color":"Azul / relaxed fit","tag":"","sizes":["28","30","32","34"],"image":"photo-1541099649105-f69ad21f3246"}
+]
